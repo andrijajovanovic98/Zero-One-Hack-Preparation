@@ -1,4 +1,4 @@
-# Zero One Hack: Vienna's Supercompute AI Hackathon — Team Prep
+# Zero One Hack: Vienna's Supercompute AI Hackathon - Team Prep
 
 Ez a repository a **Zero One Hack Vienna 2026** felkészülésére készült.
 
