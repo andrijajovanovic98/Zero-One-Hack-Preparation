@@ -1,22 +1,3 @@
-# Zero-One-Hack-Preparation
-
-# Zero One Hack Preparation
-
-## Ajánlott repository név
-
-**zero-one-hack-prep**
-
-Alternatívák:
-
-* `zero-one-hack-vienna-2026`
-* `zero-one-hack-starter`
-* `zero-one-hack-team-prep`
-* `zero-one-banking-track-prep`
-
-A legjobb általános választás szerintem: **`zero-one-hack-prep`**
-
----
-
 # README
 
 ## Overview
